@@ -38,6 +38,13 @@ li {
     font-size: 14px;
   }
 }
+@media (max-width: 480px) {
+  .weather-app {
+    width: 100%;
+    padding: 0 10px;
+    font-size: 12px;
+  }
+}
 
 .temperature {
   color: #fff;
