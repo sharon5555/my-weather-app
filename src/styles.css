@@ -32,17 +32,10 @@ li {
   max-width: 500px;
   background-color: #000000d0;
 }
-@media (max-width: 768px) {
-  .weather-app {
-    width: 80%;
-    font-size: 14px;
-  }
-}
 @media (max-width: 480px) {
   .weather-app {
     width: 100%;
-    padding: 0 10px;
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
